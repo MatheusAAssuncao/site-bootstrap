@@ -1,0 +1,18 @@
+.linha{
+    height: 200px;
+    width: 1px;
+    background: black;
+    position: absolute;
+    top: 200px;
+    left: 150px;
+}
+
+
+.linha2{
+    height: 200px;
+    width: 1px;
+    background: red;
+    position: absolute;
+    top: 200px;
+    left: 180px;
+}
